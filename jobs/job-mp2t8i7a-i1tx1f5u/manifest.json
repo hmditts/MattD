@@ -1,0 +1,12 @@
+{
+  "job_id": "job-mp2t8i7a-i1tx1f5u",
+  "source_url": "https://youtu.be/bqVgaIf-wtY",
+  "created_at_utc": "2026-05-12T15:53:36Z",
+  "mode": "single",
+  "total_size_bytes": 1247552,
+  "chunk_size_bytes": 99614720,
+  "chunk_count": 0,
+  "single_file_path": "jobs/job-mp2t8i7a-i1tx1f5u/file.bin",
+  "chunks_path_prefix": "jobs/job-mp2t8i7a-i1tx1f5u/chunks/chunk_",
+  "suggested_filename": "bqVgaIf-wtY"
+}
